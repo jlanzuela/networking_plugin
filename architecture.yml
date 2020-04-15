@@ -17,4 +17,6 @@ syslogArchitectureElements:
   - ip: "155.210.157.252"
     type: mikrotikkk
     ipaddr: 155.210.157.252
-    egergr
+  - ip: "155.210.157.252"
+    type: mikrotikkk
+    ipaddr: 155.210.157.252
