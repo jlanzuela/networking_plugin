@@ -17,3 +17,8 @@ syslogArchitectureElements:
   - ip: "155.210.157.252"
     type: mikrotikkk
     ipaddr: 155.210.157.252
+
+snmpArchitectureElements:
+  - ip: "155.210.157.254"
+    type: mikrotik
+    ipaddr: 155.210.157.254
