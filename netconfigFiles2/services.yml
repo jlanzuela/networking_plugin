@@ -1,1 +1,6 @@
+#### Fichero de servicios disponibles para añadir a los equipos
 
+services:
+  - netflow
+  - syslog
+  - snmp
