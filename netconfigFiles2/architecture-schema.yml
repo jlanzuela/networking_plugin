@@ -1,1 +1,11 @@
+### YAML Schema for the architecture FILEBEAT
 
+netflowArchitectureElements:
+  - ip: string
+    type: string
+    ipaddr: ipv4
+
+syslogArchitectureElements:
+  - ip: string
+    type: string
+    ipaddr: ipv4
