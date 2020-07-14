@@ -28,3 +28,6 @@ snmpArchitectureElements:
   - ip: "155.210.157.250"
     type: mikrotikkkkk
     ipaddr: 155.210.157.250
+  - ip: "155.210.157.251"
+    type: mikrotikkkk
+    ipaddr: 155.210.157.251
