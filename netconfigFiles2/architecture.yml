@@ -9,9 +9,6 @@ netflowArchitectureElements:
   - ip: "155.210.157.252"
     type: mikrotikkk
     ipaddr: 155.210.157.252
-  - ip: "155.210.157.251"
-    type: mikrotikkkk
-    ipaddr: 155.210.157.251
 
 syslogArchitectureElements:
   - ip: "155.210.157.254"
@@ -23,9 +20,6 @@ syslogArchitectureElements:
   - ip: "155.210.157.252"
     type: mikrotikkk
     ipaddr: 155.210.157.252
-  - ip: "155.210.157.251"
-    type: mikrotikkkk
-    ipaddr: 155.210.157.251
 
 snmpArchitectureElements:
   - ip: "155.210.157.252"
